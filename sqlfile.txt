@@ -1,0 +1,12 @@
+INSERT INTO mytable((",".join(row))) VALUES  
+('(row[0])','(row[1])','(row[2])','(row[3])',),
+('(row[0])','(row[1])','(row[2])','(row[3])',),
+INSERT INTO mytable((",".join(row))) VALUES  
+('(row[0])','(row[1])','(row[2])','(row[3])'),
+('(row[0])','(row[1])','(row[2])','(row[3])'),
+INSERT INTO mytable(name,department,birthday,month) VALUES  
+('(row[0])','(row[1])','(row[2])','(row[3])'),
+('(row[0])','(row[1])','(row[2])','(row[3])'),
+INSERT INTO mytable(name,department,birthday,month) VALUES  
+('John','mith','Accounting','November'),
+('Erica','Meyers','IT','March'),
